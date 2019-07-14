@@ -6,4 +6,3 @@ OS - Windows 10
 database - mySql
 
 
-Team members - Rayan Aradha
